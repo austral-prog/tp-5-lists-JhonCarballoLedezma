@@ -10,7 +10,7 @@ def add_elements(lista):
     Returns:
         La lista modificada con los elementos agregados
     """
-    pass  # Reemplazar con tu implementación
+    #pass  # Reemplazar con tu implementación
     lista.insert(0,'Pink') #agrega al inicio Pink
     lista.append('Yellow') #agrega al final Yellow
     return lista
